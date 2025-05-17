@@ -1,0 +1,20 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+  }
+
+h1 {
+    padding: 34px 0;
+    text-align: center;
+    background-color: rgb(247, 222, 82);
+}
+
+h2 {
+    margin: 0 80px;
+    display: inline-block;
+}
+
+div {
+    margin: 20px;
+    text-align: center;
+}
